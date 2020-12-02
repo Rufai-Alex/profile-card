@@ -1,0 +1,23 @@
+{
+    "name": "profile-card-component-main",
+    "version": "1.0.0",
+    "description": "![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)",
+    "main": "index.js",
+    "scripts": {
+        "compile:sass": "node-sass  scss/main.scss css/style.css -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Rufai-Alex/profile-card.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Rufai-Alex/profile-card/issues"
+    },
+    "homepage": "https://github.com/Rufai-Alex/profile-card#readme",
+    "devDependencies": {
+        "node-sass": "^5.0.0"
+    }
+}
